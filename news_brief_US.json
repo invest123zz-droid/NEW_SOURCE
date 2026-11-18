@@ -1,0 +1,168 @@
+{
+ "date": "2026-11-18",
+ "headline": "Stocks fell a fourth day Tuesday (S&P 500 -1.0%, Nasdaq -0.7%, Dow -1.6%) on software AI-replacement fears (Salesforce -9%) and tech outage worries. Nvidia beat after the close and guided Q4 to about $130B, rising about 4% after hours. 10-year yield 5.11%; a December Fed hike is priced in.",
+ "sectors": [
+  {
+   "sector": "Commercial Services",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "No clear sector news. A 10-year yield above 5% and a likely December Fed hike remain a mild headwind."
+  },
+  {
+   "sector": "Communications",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "No clear US sector news. Telecoms are defensive, but bond yields above 5% compete with their dividends."
+  },
+  {
+   "sector": "Consumer Durables",
+   "view": "down",
+   "chance": "about 55% down, low confidence",
+   "why": "October retail sales showed auto dealers -1.6% and furniture -2.3%, and markets price a December Fed hike with the 10-year near 5.1%, which hurts homes, cars and furniture."
+  },
+  {
+   "sector": "Consumer Non-Durables",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "Energizer jumped 12.6% on strong results, but import prices rose 1.1% in October, squeezing costs. Walmart and Target results this week set the tone.",
+   "stocks": [
+    "WMT",
+    "TGT",
+    "ENR"
+   ]
+  },
+  {
+   "sector": "Consumer Services",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "Disney fell 1.5% despite revenue up 16% and a 33% dividend raise. Consumer spending is still solid but the saving rate is near a four-year low."
+  },
+  {
+   "sector": "Distribution Services",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "No clear sector news. Steady retail sales help volumes, rising rates raise financing costs."
+  },
+  {
+   "sector": "Electronic Technology",
+   "view": "up",
+   "chance": "about 55% up, low confidence",
+   "why": "Nvidia beat (revenue $115.8B, up 103%) and guided Q4 to about $130B vs about $125B expected; Micron and Credo rose after hours. New US AI-chip access limits and Nvidia's CEO vacancy keep risk high.",
+   "stocks": [
+    "NVDA",
+    "MU",
+    "AVGO",
+    "CRDO"
+   ]
+  },
+  {
+   "sector": "Energy Minerals",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "Energy was the only gaining sector Tuesday, but hopes of diplomacy in the Iran war could cap oil. No clear one-month direction."
+  },
+  {
+   "sector": "Finance",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "Financials were among the weakest Tuesday and crypto names fell (Coinbase -4%, Robinhood -4%) with Bitcoin down over 20% in a month. Higher rates help bank margins but hurt credit.",
+   "stocks": [
+    "COIN",
+    "HOOD"
+   ]
+  },
+  {
+   "sector": "Health Services",
+   "view": "down",
+   "chance": "about 55% down, low confidence",
+   "why": "UnitedHealth fell 5.4% on sweeping anti-fraud proposals for Medicare and Medicaid, which could pressure insurers and providers for weeks. Healthcare was among the weakest sectors.",
+   "stocks": [
+    "UNH"
+   ]
+  },
+  {
+   "sector": "Health Technology",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "Healthcare lagged Tuesday, but no broad drug or device news. SELLAS surged on a Phase 3 cancer vaccine win (a single small-cap event)."
+  },
+  {
+   "sector": "Industrial Services",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "AECOM rose 11% on a record $28B backlog, a good sign for engineering and infrastructure demand, but one company is not a trend. October industrial production fell 0.4%.",
+   "stocks": [
+    "ACM"
+   ]
+  },
+  {
+   "sector": "Miscellaneous",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "No clear news for this group."
+  },
+  {
+   "sector": "Non-Energy Minerals",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "Gold slipped 0.2% to about $3,849. No clear driver for metals and miners this month."
+  },
+  {
+   "sector": "Process Industries",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "October industrial production fell 0.4% and import prices rose 1.1%, a mixed picture for chemicals and materials makers."
+  },
+  {
+   "sector": "Producer Manufacturing",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "Industrial production fell 0.4% in October and rate-hike bets weigh on capital spending, but AI data-center buildout supports equipment demand."
+  },
+  {
+   "sector": "Retail Trade",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "October retail sales rose 0.2% as expected and the core control group beat (+0.6%), with online sellers +1.2%. Home Depot fell 2.5% on a CEO change. Walmart and Target report this week.",
+   "stocks": [
+    "WMT",
+    "TGT",
+    "HD",
+    "AMZN"
+   ]
+  },
+  {
+   "sector": "Technology Services",
+   "view": "down",
+   "chance": "about 55% down, low confidence",
+   "why": "Salesforce fell about 9% and Microsoft 2.3% as fears that AI will replace software products spread; outages at banks and agencies added security worries. Nvidia's beat may help sentiment only partly.",
+   "stocks": [
+    "CRM",
+    "MSFT"
+   ]
+  },
+  {
+   "sector": "Transportation",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "Recent air-travel tech outages are a short-term hit; oil swings on Iran news cut both ways for fuel costs."
+  },
+  {
+   "sector": "Utilities",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "Defensive and helped by AI power demand, but a 10-year yield above 5% competes with dividends."
+  }
+ ],
+ "avoid": {
+  "UNH": "Fell 5.4% on sweeping Medicare and Medicaid anti-fraud proposals that could hang over the stock for weeks."
+ },
+ "sources": [
+  "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/",
+  "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-nvidia-slides-ahead-of-earnings-but-soars-in-after-hours-trading/",
+  "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026",
+  "https://kfgo.com/2026/11/17/us-retail-sales-increase-moderately-in-october/",
+  "https://eurasiabusinessnews.com/2026/11/18/nvidia-beats-earnings-estimates-raises-guidance-in-first-report-after-jensen-huangs-exit/",
+  "https://www.kiplinger.com/news/live/nvidia-earnings-live-updates-and-commentary-november-2026"
+ ]
+}
