@@ -1,51 +1,53 @@
 {
- "date": "2026-11-20",
- "headline": "S&P 500 fell 2.0% Thursday, a sixth straight loss (Dow -2.2%, Nasdaq -2.3%); over 90% of S&P stocks fell. Anthropic closed its debut 17% above its $83 IPO price but did not lift AI stocks; chips sank, Walmart slipped on its outlook. A December Fed hike is about 95% priced.",
+ "date": "2026-11-23",
+ "headline": "S&P 500 fell 3.7% Friday (Nasdaq -5.3%, Dow -950 pts), a seventh straight loss; Dow and S&P are in correction after the worst week since April 2025 on AI fears, Nvidia turmoil and a 92%-priced December Fed hike. Futures rebound about 2% Sunday night. Short week: PCE Wednesday, closed Thursday.",
  "sectors": [
   {
    "sector": "Commercial Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. Markets price a 25bp Fed hike in December and the 10-year yield sits near 5.06%, a mild headwind."
+   "why": "No clear sector news. A December Fed hike is about 92% priced, a mild headwind, but nothing points one way."
   },
   {
    "sector": "Communications",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear US telecom news. Yields above 5% compete with telecom dividends."
+   "why": "No clear US telecom news. Telecoms held up better than tech in Friday's sell-off, but a hawkish Fed weighs on dividend stocks."
   },
   {
    "sector": "Consumer Durables",
    "view": "down",
    "chance": "about 55% down, low confidence",
-   "why": "Pending home sales fell in October to the lowest since at least 2001 and a December Fed hike is about 95% priced, which weighs on homes, cars and furniture."
+   "why": "Futures price a December Fed hike (about 92%) and two or more hikes by June above 80%, which weighs on homes, cars and furniture. Fortune cites Moody's that the stock-market wealth effect may now slow growth."
   },
   {
    "sector": "Consumer Non-Durables",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Walmart beat on sales (US e-commerce up 23%) but slipped about 1% on its annual outlook. Staples may hold up in a sell-off, but there is no clear direction.",
+   "why": "Consumer staples was the only S&P sector to gain on Friday, so it may keep acting as a hiding place, but higher rates and soft spending limit upside.",
    "stocks": [
-    "WMT"
+    "WMT",
+    "PG",
+    "KO"
    ]
   },
   {
    "sector": "Consumer Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. Jobless claims rose to 203,000 but remain low, so spending looks steady while rate hikes lie ahead."
+   "why": "No clear sector news. Thanksgiving week and Black Friday will show how spending holds up after the stock slump."
   },
   {
    "sector": "Distribution Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. Health distributors may feel some pressure from the proposed Medicare audit rule, but the hit is on insurers."
+   "why": "No clear sector news."
   },
   {
    "sector": "Electronic Technology",
    "view": "down",
    "chance": "about 55% down, low confidence",
-   "why": "AI chip stocks keep sliding: the chip index fell 2.4% Thursday, Nvidia lost 3.3% (sixth straight drop) and AMD fell 7.7% on a short-seller report. Selling can reverse fast, so confidence is low.",
+   "why": "Chips led a 5.3% Nasdaq plunge Friday (NVDA -14%, AMD -13%, MU over -12%) on AI-spending doubts, Nvidia's CEO exit and SEC probe, and China chip-export worries. Futures bounce about 2.7% Monday, but trust is shaken.",
    "stocks": [
     "NVDA",
     "AMD",
@@ -57,24 +59,28 @@
    "sector": "Energy Minerals",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Oil fell earlier in the week on rising US stockpiles, but Middle East supply risk can reverse it quickly; no clear new energy news Thursday."
+   "why": "WTI settled near $83, its lowest since late August, with Brent near $92 amid surplus talk. No clear one-month push either way."
   },
   {
    "sector": "Finance",
-   "view": "neutral",
-   "chance": "about 50/50, low confidence",
-   "why": "Higher rates help lending margins, but a 2% market drop, VIX near 28 and a likely December hike weigh on brokers and risk appetite."
+   "view": "down",
+   "chance": "about 55% down, low confidence",
+   "why": "Banks fell Friday (JPM and BAC over -3%, C -4%) as the S&P 500 entered a correction, and JPMorgan had a tech outage. Rate-hike fears and AI-financing worries weigh.",
+   "stocks": [
+    "JPM",
+    "BAC",
+    "C"
+   ]
   },
   {
    "sector": "Health Services",
    "view": "down",
    "chance": "about 60% down, medium confidence",
-   "why": "The proposed CMS rule widening Medicare Advantage audits (about $90B in recoveries from 2027) still hangs over insurers after this week's 7-13% drops.",
+   "why": "CMS proposed on 16 Nov to extrapolate Medicare Advantage audit findings back to 2018 (about $9B a year). UNH fell 10% and HUM 13% on 18 Nov; comments run to 19 Jan 2027, so the overhang stays.",
    "stocks": [
     "UNH",
     "HUM",
     "ELV",
-    "CNC",
     "CVS"
    ]
   },
@@ -82,90 +88,87 @@
    "sector": "Health Technology",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news for drug and device makers; the Medicare rule targets insurers."
+   "why": "No clear sector news for drug and device makers. Medtronic reports Tuesday."
   },
   {
    "sector": "Industrial Services",
-   "view": "neutral",
-   "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. Higher rates are a mild headwind for project financing."
+   "view": "down",
+   "chance": "about 55% down, low confidence",
+   "why": "Political pushback on data centers after the midterms (new governors pledging to halt construction) and Trump's vow to stop US firms building data centers abroad cloud AI-building demand."
   },
   {
    "sector": "Miscellaneous",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear news for this mixed group."
+   "why": "No clear sector news."
   },
   {
    "sector": "Non-Energy Minerals",
-   "view": "down",
-   "chance": "about 55% down, low confidence",
-   "why": "Gold and miners have sold off this week as the dollar hit a 19-month high and the Fed leans toward more hikes.",
-   "stocks": [
-    "FCX",
-    "NEM"
-   ]
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "Gold moves were reported in opposite directions by two sources on Friday, so there is no clear signal."
   },
   {
    "sector": "Process Industries",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. A strong dollar is a mild headwind for chemical exporters."
+   "why": "No clear sector news."
   },
   {
    "sector": "Producer Manufacturing",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. A mid-Atlantic factory survey showed slower growth than expected, and rate hikes ahead weigh on capital spending."
+   "why": "Deere reports Wednesday. Slower AI spending could hit power and equipment suppliers (Bloom Energy -15% Friday), but no clear one-month direction for the sector."
   },
   {
    "sector": "Retail Trade",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Mixed: Target, TJX and Lowe's beat earlier this week, but Walmart's outlook disappointed and Williams-Sonoma fell about 14% on a soft revenue forecast.",
+   "why": "Big retail earnings Tuesday (Best Buy, Dollar Tree, Dick's, Burlington) and Black Friday this week. Results could move stocks either way.",
    "stocks": [
-    "TJX",
-    "TGT",
-    "WMT",
-    "LOW"
+    "BBY",
+    "DLTR",
+    "DKS"
    ]
   },
   {
    "sector": "Technology Services",
-   "view": "neutral",
-   "chance": "about 50/50, low confidence",
-   "why": "Palo Alto rose about 6% on raised 2027 guidance, but AI cloud names CoreWeave (-6%) and Nebius (-9%) fell hard; Anthropic closed its debut 17% above its $83 IPO price.",
+   "view": "down",
+   "chance": "about 55% down, low confidence",
+   "why": "AI stocks had their worst week since 2020: Anthropic fell 9% in its second session, neoclouds NBIS -16% and CRWV -12%. Futures rebound Monday, but AI-financing doubts and a hawkish Fed remain. Workday and Autodesk report Tuesday.",
    "stocks": [
-    "PANW",
     "CRWV",
-    "NBIS"
+    "NBIS",
+    "MSFT"
    ]
   },
   {
    "sector": "Transportation",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. Oil is off its highs, which helps fuel costs, but a weak market weighs on cyclicals."
+   "why": "No clear sector news. United Airlines had a reported tech outage; lower oil helps costs."
   },
   {
    "sector": "Utilities",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. The 10-year yield eased slightly to about 5.06%, but likely Fed hikes still compete with utility dividends."
+   "why": "Utilities could hold up in a sell-off, but data-center pushback may cut expected power demand growth. No clear direction."
   }
  ],
  "avoid": {
-  "HUM": "CMS proposed wider Medicare Advantage audits recovering payments; shares fell 13% and the rule's comment period keeps the risk open.",
-  "UNH": "Same CMS Medicare Advantage audit proposal hit UnitedHealth 10%; the final rule outcome is still unknown.",
-  "AMD": "Fell 7.7% Thursday after Hunterbrook disclosed a short position, adding a fresh overhang during an AI chip sell-off.",
-  "WSM": "Fell about 14% after revenue missed and its 2026 revenue forecast midpoint came in below expectations."
+  "NVDA": "CEO Jensen Huang resigned, the SEC is probing whether disclosures misled investors, and leadership faces a congressional interview on 1 Dec.",
+  "HUM": "Most exposed to the proposed CMS Medicare Advantage audit rule (fell 13% on 18 Nov); comment period runs to 19 Jan 2027.",
+  "UNH": "Fell about 14% in a week on the CMS Medicare Advantage audit proposal; the overhang lasts until the rule is settled."
  },
  "sources": [
-  "https://finwire.io/news/stock-markets-news/wall-street-ends-sharply-lower-as-anthropics-debut-fails-to-revive-ai-fervor",
-  "https://investing.com/news/stock-market-news/wall-street-slides-as-anthropics-debut-fails-to-revive-ai-enthusiasm-5039839",
-  "https://www.thestandard.com.hk/finance/article/349077/Wall-Street-ends-sharply-lower-as-Anthropics-debut-fails-to-revive-AI-fervor",
-  "https://kdhnews.com/news/nation/a-soaring-debut-for-anthropics-stock-is-not-enough-to-carry-wall-street-and-indexes/article_cc53568a-a20c-50cb-912e-49a57f52db9d.html",
-  "https://seekingalpha.com/news/4674818-midday-need-to-know-anthropics-historic-debut-walmart-results-more",
-  "https://thedrewsletter.substack.com/p/a-2-trillion-ipo-a-brutal-day-on"
+  "https://www.schwab.com/learn/story/market-volatility",
+  "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory",
+  "https://fortune.com/2026/11/22/stock-market-today-dow-futures-sp500-nasdaq-correction-ai-bust/",
+  "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26",
+  "https://tradingeconomics.com/united-states/stock-market/news/527854",
+  "https://www.investmentnews.com/equities/embattled-nvidia-faces-sec-probe-as-california-attorney-general-mulls-action/269054",
+  "https://stockanalysis.com/news/unitedhealth-humana-fall-cms-medicare-advantage-audit-rule/",
+  "https://www.tikr.com/blog/unitedhealth-stock-drop-medicare-advantage-audit-buy-or-sell",
+  "https://qna.org.qa/en/News-Area/News/2026-11/20/oil-prices-end-largely-unchanged-as-brent-edges-higher-and-us-crude-slips"
  ]
 }
