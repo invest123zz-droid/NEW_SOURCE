@@ -1,20 +1,21 @@
 {
- "date": "2026-11-24",
- "headline": "The STI slipped 0.4-0.5% on Monday to about 4,952 but held above 4,900. Overnight, Wall Street rebounded strongly (S&P 500 +4.7%, Nasdaq +6.5%) as Nvidia jumped about 30% on Jensen Huang's return as CEO, so a firmer open is likely. Oil fell again. Gains may be short covering.",
+ "date": "2026-11-25",
+ "headline": "The STI edged up 0.1% to 4,958.87 on Tuesday, with banks slightly higher. Overnight Wall Street gave back part of Monday's AI rally: Nasdaq -1.5%, Nvidia -5.9%, but the Dow rose. Brent is near a 3-month low. US GDP and PCE data are due tonight; a December Fed hike is nearly fully priced.",
  "sectors": [
   {
    "sector": "Commercial Services",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No sector news; it will mostly follow the broad mood, which improved after Wall Street's 4.7% S&P 500 rebound on Monday."
+   "why": "No sector news; it will follow the broad mood, which is choppy after Wall Street gave back part of Monday's rally."
   },
   {
    "sector": "Communications",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No specific news; defensive telcos held up in last week's sell-off and may lag if money rotates back into AI and tech.",
+   "why": "No confirmed new sector news; telcos are defensive and may hold up better while US tech stays volatile.",
    "stocks": [
-    "Z74"
+    "Z74",
+    "CC3"
    ]
   },
   {
@@ -27,13 +28,13 @@
    "sector": "Consumer Non-Durables",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No sector-specific news; Singapore core inflation slowed to 1.5% in October, which eases cost pressure a little."
+   "why": "No sector-specific news; Singapore core inflation is running at the low end of MAS's 1.5-2.0% range, which eases cost pressure a little."
   },
   {
    "sector": "Consumer Services",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No new sector news; slower core inflation (1.5% in October) is mildly helpful for spending."
+   "why": "No new sector news; US consumer confidence jumped to 103.3 in November, a mild plus for travel and leisure sentiment."
   },
   {
    "sector": "Distribution Services",
@@ -44,8 +45,8 @@
   {
    "sector": "Electronic Technology",
    "view": "neutral",
-   "chance": "about 55% up, low confidence",
-   "why": "Nvidia jumped about 30% and the Nasdaq 6.5% on Monday after Jensen Huang returned as CEO, easing last week's AI rout; but the rally may be short covering, and US chip licence rules for Singapore remain.",
+   "chance": "about 45% up, low confidence",
+   "why": "Nvidia fell 5.9% and AMD 8.9% on Tuesday, a day after Nvidia's 31% jump, so the AI swings continue; US licence rules for AI chips in Singapore data centres are still a headwind.",
    "stocks": [
     "V03",
     "AWX",
@@ -55,14 +56,14 @@
   {
    "sector": "Energy Minerals",
    "view": "down",
-   "chance": "about 60% down, medium confidence",
-   "why": "Oil fell again on Monday (US crude near $81), extending a three-week slide on supply-surplus worries."
+   "chance": "about 40% up, low confidence",
+   "why": "Brent is near a three-month low around $88-89 after a weeks-long slide, though it bounced intraday on Tuesday; Hormuz shipping risk keeps swings large."
   },
   {
    "sector": "Finance",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "Better global mood helps SGX and bank wealth fees, but US rate-hike talk for December keeps pressure on REITs; CDL Hospitality Trusts is raising new equity.",
+   "why": "DBS, OCBC and UOB rose 0.4-0.8% on Tuesday after falling about 8% in two weeks; a likely December US rate hike helps bank margins but weighs on REITs.",
    "stocks": [
     "D05",
     "O39",
@@ -74,7 +75,7 @@
    "sector": "Health Services",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No Singapore-specific news; safe-haven demand may fade as risk appetite returns."
+   "why": "No Singapore-specific news."
   },
   {
    "sector": "Health Technology",
@@ -85,8 +86,11 @@
   {
    "sector": "Industrial Services",
    "view": "neutral",
-   "chance": "about 45% up, low confidence",
-   "why": "Lower oil is a mild headwind for offshore and marine services; Marco Polo Marine fell about 9% on Monday on an expected lower profit."
+   "chance": "about 50% up, low confidence",
+   "why": "Cheap oil is a mild headwind for offshore and marine services; Seatrium has been very weak, down sharply again on Tuesday.",
+   "stocks": [
+    "S51"
+   ]
   },
   {
    "sector": "Miscellaneous",
@@ -98,7 +102,7 @@
    "sector": "Non-Energy Minerals",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No clear news for SGX miners; gold rose about 4% intraday on Monday."
+   "why": "No SGX miner news; gold fell about 1% to near $3,600 on Tuesday."
   },
   {
    "sector": "Process Industries",
@@ -110,25 +114,25 @@
    "sector": "Producer Manufacturing",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "May follow the tech rebound, but no specific SGX news."
+   "why": "No specific SGX news; it may follow the swings in US chip and AI stocks."
   },
   {
    "sector": "Retail Trade",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No sector-specific news."
+   "why": "No sector-specific news; US retailers Dollar Tree and Kohl's beat expectations, a small global positive."
   },
   {
    "sector": "Technology Services",
    "view": "neutral",
-   "chance": "about 55% up, low confidence",
-   "why": "The AI rebound on Wall Street (CoreWeave and Nebius up sharply) may lift sentiment for data-centre and tech services names, but it is one day."
+   "chance": "about 45% up, low confidence",
+   "why": "AI names fell again on Tuesday (CoreWeave -9%, Anthropic below its IPO price), and US chip licence rules for Singapore data centres remain, so data-centre sentiment stays shaky."
   },
   {
    "sector": "Transportation",
    "view": "neutral",
-   "chance": "about 55% up, low confidence",
-   "why": "Falling oil cuts fuel costs for airlines and shipping, a mild help over a month.",
+   "chance": "about 50% up, low confidence",
+   "why": "Low oil prices cut fuel costs for airlines and shipping, a mild help over a month; SIA's interim dividend goes ex today, 25 Nov.",
    "stocks": [
     "C6L"
    ]
@@ -136,15 +140,20 @@
   {
    "sector": "Utilities",
    "view": "neutral",
-   "chance": "about 50% up, low confidence",
-   "why": "No clear news; defensives may lag if money returns to tech."
+   "chance": "about 55% up, low confidence",
+   "why": "No clear news; Sembcorp was the STI's top gainer on Tuesday (+2.5%), and defensives may benefit while tech stays volatile.",
+   "stocks": [
+    "U96"
+   ]
   }
  ],
  "avoid": {},
  "sources": [
-  "https://mymotherlode.com/news/national/11334721/how-major-us-stock-indexes-fared-monday-11-23-2026.html",
-  "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html",
-  "https://businessupturn.com/asia/southeast-asia/singapore/singapore-stocks-inch-lower-as-sti-slips-0-47-at-monday-close/",
-  "https://sg.finance.yahoo.com/news/singapore-shares-start-week-red-093129064.html"
+  "https://www.kucoin.com/news/flash/singapore-stocks-rise-on-nvidia-rally-sti-gains-0-1",
+  "https://longbridge.com/en/news/306553223",
+  "https://longbridge.com/en/news/306407010",
+  "https://www.bnnbloomberg.ca/investing/market-outlook/2026/11/24/tech-stocks-wane-a-day-after-a-huang-rally-as-anthropic-tumbles-below-its-initial-offering-price/",
+  "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-nvidia-gives-back-usd240-billion-in-market-value-despite-wall-street-upgrade-signaling-29-upside/",
+  "https://eurasiabusinessnews.com/2026/11/24/stock-market-today-november-24-2026-nasdaq-falls-as-nvidia-and-anthropic-slide-oil-price-at-89-gold-drops-to-3620/"
  ]
 }
