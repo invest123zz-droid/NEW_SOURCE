@@ -1,32 +1,32 @@
 {
- "date": "2026-11-23",
- "headline": "S&P 500 fell 3.7% Friday (Nasdaq -5.3%, Dow -950 pts), a seventh straight loss; Dow and S&P are in correction after the worst week since April 2025 on AI fears, Nvidia turmoil and a 92%-priced December Fed hike. Futures rebound about 2% Sunday night. Short week: PCE Wednesday, closed Thursday.",
+ "date": "2026-11-24",
+ "headline": "Monday snapped a 7-day slide: S&P 500 +4.7%, Nasdaq +6.5%, Dow +3.0% as Nvidia jumped about 31% after Huang was reinstated as CEO. Oil fell to a 3-month low. A Dec 9 Fed hike is still expected; VIX about 27. PCE due Wednesday, market shut Thursday.",
  "sectors": [
   {
    "sector": "Commercial Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. A December Fed hike is about 92% priced, a mild headwind, but nothing points one way."
+   "why": "No clear sector news. A December 9 Fed hike is still widely expected and the flash services PMI cooled to 54.7, a mild headwind but not a clear direction."
   },
   {
    "sector": "Communications",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear US telecom news. Telecoms held up better than tech in Friday's sell-off, but a hawkish Fed weighs on dividend stocks."
+   "why": "No specific US telecom news. Communication services rose about 3.6% in Monday's rebound, but long Treasury yields near 5.3% weigh on dividend payers."
   },
   {
    "sector": "Consumer Durables",
    "view": "down",
    "chance": "about 55% down, low confidence",
-   "why": "Futures price a December Fed hike (about 92%) and two or more hikes by June above 80%, which weighs on homes, cars and furniture. Fortune cites Moody's that the stock-market wealth effect may now slow growth."
+   "why": "A December 9 Fed hike is still widely expected and the 10-year yield held near 4.92%, keeping mortgage and auto loan costs high for homes, cars and furniture."
   },
   {
    "sector": "Consumer Non-Durables",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Consumer staples was the only S&P sector to gain on Friday, so it may keep acting as a hiding place, but higher rates and soft spending limit upside.",
+   "why": "Staples were flat (about -0.1%) on Monday as money rotated back into tech after being last week's hiding place. Lower oil eases costs slightly. J.M. Smucker reports today.",
    "stocks": [
-    "WMT",
+    "SJM",
     "PG",
     "KO"
    ]
@@ -35,140 +35,130 @@
    "sector": "Consumer Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. Thanksgiving week and Black Friday will show how spending holds up after the stock slump."
+   "why": "Lower oil (WTI near $80, lowest close since late August) helps travel and leisure costs, but rate-hike expectations and a cooling PMI limit the upside."
   },
   {
    "sector": "Distribution Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news."
+   "why": "No clear sector news. The flash composite PMI fell to 54.6, its lowest since July, which hints at slower demand but is still expansion."
   },
   {
    "sector": "Electronic Technology",
-   "view": "down",
-   "chance": "about 55% down, low confidence",
-   "why": "Chips led a 5.3% Nasdaq plunge Friday (NVDA -14%, AMD -13%, MU over -12%) on AI-spending doubts, Nvidia's CEO exit and SEC probe, and China chip-export worries. Futures bounce about 2.7% Monday, but trust is shaken.",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "Chips led Monday's bounce (tech about +9%, Nvidia about +31% after Huang was reinstated as CEO, upgrades for Nvidia and Texas Instruments), but it follows a roughly 39% one-month Nvidia drop, open Nvidia investigations and a VIX still near 27. Dell and HP report after today's close.",
    "stocks": [
     "NVDA",
+    "TXN",
     "AMD",
-    "MU",
-    "AVGO"
+    "DELL",
+    "ADI"
    ]
   },
   {
    "sector": "Energy Minerals",
-   "view": "neutral",
-   "chance": "about 50/50, low confidence",
-   "why": "WTI settled near $83, its lowest since late August, with Brent near $92 amid surplus talk. No clear one-month push either way."
+   "view": "down",
+   "chance": "about 60% down, medium confidence",
+   "why": "Oil slid again Monday: Brent about -3.5% to near $89 and WTI about -3.9% to near $80, its lowest close since late August, on Libya restarting the Sharara pipeline, higher Middle East exports and surplus forecasts. Energy was the worst sector Monday."
   },
   {
    "sector": "Finance",
-   "view": "down",
-   "chance": "about 55% down, low confidence",
-   "why": "Banks fell Friday (JPM and BAC over -3%, C -4%) as the S&P 500 entered a correction, and JPMorgan had a tech outage. Rate-hike fears and AI-financing worries weigh.",
-   "stocks": [
-    "JPM",
-    "BAC",
-    "C"
-   ]
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "Financials rose about 2% Monday. A flat yield curve (2-year 4.63%, 10-year 4.92%) and an expected December hike give no clear one-month direction."
   },
   {
    "sector": "Health Services",
-   "view": "down",
-   "chance": "about 60% down, medium confidence",
-   "why": "CMS proposed on 16 Nov to extrapolate Medicare Advantage audit findings back to 2018 (about $9B a year). UNH fell 10% and HUM 13% on 18 Nov; comments run to 19 Jan 2027, so the overhang stays.",
-   "stocks": [
-    "UNH",
-    "HUM",
-    "ELV",
-    "CVS"
-   ]
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "No clear sector news since the close. Health care lagged Monday's rally (about +1.2%)."
   },
   {
    "sector": "Health Technology",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news for drug and device makers. Medtronic reports Tuesday."
+   "why": "No clear sector news. Medtronic reports before today's open; Agilent rose about 8% after hours on a beat and strong guidance.",
+   "stocks": [
+    "MDT"
+   ]
   },
   {
    "sector": "Industrial Services",
-   "view": "down",
-   "chance": "about 55% down, low confidence",
-   "why": "Political pushback on data centers after the midterms (new governors pledging to halt construction) and Trump's vow to stop US firms building data centers abroad cloud AI-building demand."
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "Industrials rose about 3.9% Monday, but the PMI cooled and there is no sector-specific news pointing one way for a month."
   },
   {
    "sector": "Miscellaneous",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news."
+   "why": "No clear news for this group."
   },
   {
    "sector": "Non-Energy Minerals",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Gold moves were reported in opposite directions by two sources on Friday, so there is no clear signal."
+   "why": "Materials rose about 3.2% Monday with the broad market, but there is no clear metals news to point one way for a month."
   },
   {
    "sector": "Process Industries",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news."
+   "why": "Cheaper oil lowers input costs for chemicals makers, but slower PMI demand offsets it. No clear direction."
   },
   {
    "sector": "Producer Manufacturing",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Deere reports Wednesday. Slower AI spending could hit power and equipment suppliers (Bloom Energy -15% Friday), but no clear one-month direction for the sector."
+   "why": "Flash manufacturing PMI at 54.5 is still expansion but the composite is at its lowest since July; Deere reports Wednesday. No clear direction."
   },
   {
    "sector": "Retail Trade",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Big retail earnings Tuesday (Best Buy, Dollar Tree, Dick's, Burlington) and Black Friday this week. Results could move stocks either way.",
+   "why": "Lower gasoline costs help shoppers before the holiday season, but rates stay high. Best Buy, Dollar Tree, Burlington, Dick's, Abercrombie and Kohl's report before today's open, so wait for results.",
    "stocks": [
     "BBY",
     "DLTR",
+    "BURL",
     "DKS"
    ]
   },
   {
    "sector": "Technology Services",
-   "view": "down",
-   "chance": "about 55% down, low confidence",
-   "why": "AI stocks had their worst week since 2020: Anthropic fell 9% in its second session, neoclouds NBIS -16% and CRWV -12%. Futures rebound Monday, but AI-financing doubts and a hawkish Fed remain. Workday and Autodesk report Tuesday.",
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "CrowdStrike agreed to buy Zscaler in an all-stock deal worth about $43.9 billion and raised guidance, but CRWD fell about 9%; Oracle said its OpenAI contract funding is secured. Workday and Autodesk report after today's close.",
    "stocks": [
-    "CRWV",
-    "NBIS",
-    "MSFT"
+    "CRWD",
+    "ZS",
+    "ORCL",
+    "WDAY",
+    "ADSK"
    ]
   },
   {
    "sector": "Transportation",
-   "view": "neutral",
-   "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. United Airlines had a reported tech outage; lower oil helps costs."
+   "view": "up",
+   "chance": "about 55% up, low confidence",
+   "why": "Oil fell to its lowest close since late August (WTI near $80), which cuts fuel costs for airlines, truckers and railroads if it lasts."
   },
   {
    "sector": "Utilities",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Utilities could hold up in a sell-off, but data-center pushback may cut expected power demand growth. No clear direction."
+   "why": "Utilities rose about 1.5% Monday but long yields near 5.3% and an expected December hike weigh on them, while AI power demand supports them. No clear direction."
   }
  ],
  "avoid": {
-  "NVDA": "CEO Jensen Huang resigned, the SEC is probing whether disclosures misled investors, and leadership faces a congressional interview on 1 Dec.",
-  "HUM": "Most exposed to the proposed CMS Medicare Advantage audit rule (fell 13% on 18 Nov); comment period runs to 19 Jan 2027.",
-  "UNH": "Fell about 14% in a week on the CMS Medicare Advantage audit proposal; the overhang lasts until the rule is settled."
+  "NVDA": "Huge 31% one-day rebound after CEO turmoil, with open investigations including an accounting review reported; news-driven swings make a month-long hold risky."
  },
  "sources": [
-  "https://www.schwab.com/learn/story/market-volatility",
-  "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory",
-  "https://fortune.com/2026/11/22/stock-market-today-dow-futures-sp500-nasdaq-correction-ai-bust/",
-  "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26",
-  "https://tradingeconomics.com/united-states/stock-market/news/527854",
-  "https://www.investmentnews.com/equities/embattled-nvidia-faces-sec-probe-as-california-attorney-general-mulls-action/269054",
-  "https://stockanalysis.com/news/unitedhealth-humana-fall-cms-medicare-advantage-audit-rule/",
-  "https://www.tikr.com/blog/unitedhealth-stock-drop-medicare-advantage-audit-buy-or-sell",
-  "https://qna.org.qa/en/News-Area/News/2026-11/20/oil-prices-end-largely-unchanged-as-brent-edges-higher-and-us-crude-slips"
+  "https://www.stl.news/us-stock-market-today-november-23-2026/",
+  "https://cappnotes.substack.com/p/closing-look-monday-november-23-2026",
+  "https://journalarta.com/en/2026/11/23/stock-market-today-dow-sp-500-futures-surge-after-tech-rout-as-oil-slides/",
+  "https://247wallst.com/investing/2026/11/23/stock-market-today-dow-sp-500-and-nasdaq-surge-as-nvidia-leads-a-major-ai-rebound/",
+  "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm"
  ]
 }
