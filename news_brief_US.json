@@ -1,93 +1,95 @@
 {
- "date": "2026-11-24",
- "headline": "Monday snapped a 7-day slide: S&P 500 +4.7%, Nasdaq +6.5%, Dow +3.0% as Nvidia jumped about 31% after Huang was reinstated as CEO. Oil fell to a 3-month low. A Dec 9 Fed hike is still expected; VIX about 27. PCE due Wednesday, market shut Thursday.",
+ "date": "2026-11-25",
+ "headline": "Tuesday: Dow +0.85% closed above 50,000, S&P 500 -0.50%, Nasdaq -1.48% as chip stocks gave back Monday's Nvidia surge (Micron -11%, ADI -17%). Health care and retailers led. Consumer confidence jumped. A Dec 9 Fed hike is ~95% priced. PCE and GDP due today; closed Thursday.",
  "sectors": [
   {
    "sector": "Commercial Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. A December 9 Fed hike is still widely expected and the flash services PMI cooled to 54.7, a mild headwind but not a clear direction."
+   "why": "No clear sector news. A December 9 Fed hike is about 95% priced and the 10-year yield sits near 4.90%, a mild headwind but not a clear direction."
   },
   {
    "sector": "Communications",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No specific US telecom news. Communication services rose about 3.6% in Monday's rebound, but long Treasury yields near 5.3% weigh on dividend payers."
+   "why": "No specific US telecom news. Communication services rose about 0.8% Tuesday, but long Treasury yields near 5.3% weigh on dividend payers."
   },
   {
    "sector": "Consumer Durables",
    "view": "down",
    "chance": "about 55% down, low confidence",
-   "why": "A December 9 Fed hike is still widely expected and the 10-year yield held near 4.92%, keeping mortgage and auto loan costs high for homes, cars and furniture."
+   "why": "A December 9 Fed hike is about 95% priced and the 10-year yield is near 4.90%, keeping mortgage and auto loan costs high for homes, cars and furniture."
   },
   {
    "sector": "Consumer Non-Durables",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Staples were flat (about -0.1%) on Monday as money rotated back into tech after being last week's hiding place. Lower oil eases costs slightly. J.M. Smucker reports today.",
+   "why": "Staples rose about 1.7% Tuesday as money left chips for defensive names, but J.M. Smucker slipped after results. No clear month-long driver.",
    "stocks": [
-    "SJM",
     "PG",
-    "KO"
+    "KO",
+    "SJM"
    ]
   },
   {
    "sector": "Consumer Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Lower oil (WTI near $80, lowest close since late August) helps travel and leisure costs, but rate-hike expectations and a cooling PMI limit the upside."
+   "why": "Conference Board consumer confidence jumped to its highest in nearly two years, a plus for spending, but a likely Fed hike limits the upside."
   },
   {
    "sector": "Distribution Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. The flash composite PMI fell to 54.6, its lowest since July, which hints at slower demand but is still expansion."
+   "why": "No clear sector news this week. Rates are the main factor and a December hike is already expected."
   },
   {
    "sector": "Electronic Technology",
-   "view": "neutral",
-   "chance": "about 50/50, low confidence",
-   "why": "Chips led Monday's bounce (tech about +9%, Nvidia about +31% after Huang was reinstated as CEO, upgrades for Nvidia and Texas Instruments), but it follows a roughly 39% one-month Nvidia drop, open Nvidia investigations and a VIX still near 27. Dell and HP report after today's close.",
+   "view": "down",
+   "chance": "about 55% down, low confidence",
+   "why": "Chips fell hard Tuesday (Micron -11% on memory demand worries, ADI -17%, Nvidia -6%) and HPE sank 16% on a lower AI server margin outlook. Dell's record quarter is a partial offset.",
    "stocks": [
     "NVDA",
-    "TXN",
-    "AMD",
-    "DELL",
-    "ADI"
+    "MU",
+    "ADI",
+    "DELL"
    ]
   },
   {
    "sector": "Energy Minerals",
-   "view": "down",
-   "chance": "about 60% down, medium confidence",
-   "why": "Oil slid again Monday: Brent about -3.5% to near $89 and WTI about -3.9% to near $80, its lowest close since late August, on Libya restarting the Sharara pipeline, higher Middle East exports and surplus forecasts. Energy was the worst sector Monday."
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "Energy rose about 1% Tuesday, but forecasters expect oil prices to ease into year end. No clear direction."
   },
   {
    "sector": "Finance",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Financials rose about 2% Monday. A flat yield curve (2-year 4.63%, 10-year 4.92%) and an expected December hike give no clear one-month direction."
+   "why": "Financials rose about 0.8% Tuesday and credit spreads narrowed. A December hike can help bank margins but weighs on borrowing, so no clear direction."
   },
   {
    "sector": "Health Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news since the close. Health care lagged Monday's rally (about +1.2%)."
+   "why": "Health care led Tuesday's market, but the gains were in drug makers and devices, not in insurers or hospitals. No clear month-long driver."
   },
   {
    "sector": "Health Technology",
-   "view": "neutral",
-   "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. Medtronic reports before today's open; Agilent rose about 8% after hours on a beat and strong guidance.",
+   "view": "up",
+   "chance": "about 55% up, low confidence",
+   "why": "Health care was the best sector Tuesday (+2.95%) and Sanofi agreed to buy Insmed for about $41 billion in cash, a sign of strong deal appetite. Medtronic fell after a revenue miss.",
    "stocks": [
-    "MDT"
+    "INSM",
+    "SNY",
+    "AMGN",
+    "VRTX"
    ]
   },
   {
    "sector": "Industrial Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Industrials rose about 3.9% Monday, but the PMI cooled and there is no sector-specific news pointing one way for a month."
+   "why": "Mixed: Amentum jumped 20% while Dycom fell 18% Tuesday. No clear sector-wide direction."
   },
   {
    "sector": "Miscellaneous",
@@ -99,66 +101,66 @@
    "sector": "Non-Energy Minerals",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Materials rose about 3.2% Monday with the broad market, but there is no clear metals news to point one way for a month."
+   "why": "No clear sector news; materials rose about 0.5% Tuesday. Rate-hike expectations and a firm dollar are a mild headwind."
   },
   {
    "sector": "Process Industries",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Cheaper oil lowers input costs for chemicals makers, but slower PMI demand offsets it. No clear direction."
+   "why": "No clear sector news. Chemical and packaging names follow rates and demand, and neither moved decisively."
   },
   {
    "sector": "Producer Manufacturing",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Flash manufacturing PMI at 54.5 is still expansion but the composite is at its lowest since July; Deere reports Wednesday. No clear direction."
+   "why": "Industrials slipped about 0.5% Tuesday. Deere reports today, which can set the tone for farm and machinery names.",
+   "stocks": [
+    "DE"
+   ]
   },
   {
    "sector": "Retail Trade",
-   "view": "neutral",
-   "chance": "about 50/50, low confidence",
-   "why": "Lower gasoline costs help shoppers before the holiday season, but rates stay high. Best Buy, Dollar Tree, Burlington, Dick's, Abercrombie and Kohl's report before today's open, so wait for results.",
+   "view": "up",
+   "chance": "about 55% up, low confidence",
+   "why": "Retailers rallied Tuesday (Abercrombie +20%, Kohl's +19%, Dick's +15%, Dollar Tree +11%) and consumer confidence hit a near two-year high. Urban Outfitters fell after hours.",
    "stocks": [
-    "BBY",
     "DLTR",
-    "BURL",
-    "DKS"
+    "ANF",
+    "DKS",
+    "BBY"
    ]
   },
   {
    "sector": "Technology Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "CrowdStrike agreed to buy Zscaler in an all-stock deal worth about $43.9 billion and raised guidance, but CRWD fell about 9%; Oracle said its OpenAI contract funding is secured. Workday and Autodesk report after today's close.",
+   "why": "Workday and Autodesk fell about 4% after hours on their results, and AI names were sold Tuesday, but software held up better than chips. No clear direction.",
    "stocks": [
-    "CRWD",
-    "ZS",
-    "ORCL",
     "WDAY",
     "ADSK"
    ]
   },
   {
    "sector": "Transportation",
-   "view": "up",
-   "chance": "about 55% up, low confidence",
-   "why": "Oil fell to its lowest close since late August (WTI near $80), which cuts fuel costs for airlines, truckers and railroads if it lasts."
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "No clear sector news. Holiday travel week; rates are the main factor."
   },
   {
    "sector": "Utilities",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Utilities rose about 1.5% Monday but long yields near 5.3% and an expected December hike weigh on them, while AI power demand supports them. No clear direction."
+   "why": "Utilities edged up about 0.2% Tuesday, but the 30-year Treasury near 5.29% and an expected December hike keep pressure on rate-sensitive dividend stocks."
   }
  ],
  "avoid": {
-  "NVDA": "Huge 31% one-day rebound after CEO turmoil, with open investigations including an accounting review reported; news-driven swings make a month-long hold risky."
+  "HPE": "Shares fell about 16% on Tuesday as a lower AI server margin outlook overshadowed its raised forecast; wait for the dust to settle."
  },
  "sources": [
-  "https://www.stl.news/us-stock-market-today-november-23-2026/",
-  "https://cappnotes.substack.com/p/closing-look-monday-november-23-2026",
-  "https://journalarta.com/en/2026/11/23/stock-market-today-dow-sp-500-futures-surge-after-tech-rout-as-oil-slides/",
-  "https://247wallst.com/investing/2026/11/23/stock-market-today-dow-sp-500-and-nasdaq-surge-as-nvidia-leads-a-major-ai-rebound/",
-  "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm"
+  "https://cappnotes.substack.com/p/closing-look-tuesday-november-24",
+  "https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026",
+  "https://rockandturner.substack.com/p/tue-nov-24-2026-the-market-today",
+  "https://www.stl.news/us-stock-market-today-november-24-2026/",
+  "https://www.oxfordeconomics.com/resource/us-pce-nowcast-broadening-pressures-lock-in-december-rate-hike/"
  ]
 }
