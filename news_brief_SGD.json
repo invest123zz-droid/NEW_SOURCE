@@ -1,78 +1,74 @@
 {
- "date": "2026-11-26",
- "headline": "STI fell 0.6% to 4,930.83 on Wednesday as the chip sell-off spread; banks slipped, REITs and Singtel rose. Overnight the US proposed Section 301 tariffs on 14 economies, Singapore up to 20% (semis, pharma exempt, not before late Jan). Hot US PCE keeps a Dec Fed hike priced. US shut Thursday.",
+ "date": "2026-11-27",
+ "headline": "STI rose 0.6% to 4,962.64 on Thursday, shaking off the US tariff plan; banks and REITs rebounded, Seatrium fell a fifth day. Asia and Europe bounced as AI stocks recovered while the US was shut for Thanksgiving; US trades a half day Friday. Brent near US$91; a Dec Fed hike stays live.",
  "sectors": [
   {
    "sector": "Commercial Services",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No sector-wide news. HRnetGroup rose about 2% on Wednesday after nine-month revenue grew 12% on semiconductor hiring, but one result does not set a direction.",
-   "stocks": [
-    "CHZ"
-   ]
+   "why": "No sector-specific news; the broad market rebounded on Thursday but one day does not set a direction."
   },
   {
    "sector": "Communications",
    "view": "neutral",
-   "chance": "about 55% up, low confidence",
-   "why": "Singtel was the STI's top gainer (+1.9%) as money moved out of chip stocks into defensives. That can continue while tech is volatile, but there is no new telco news.",
+   "chance": "about 50% up, low confidence",
+   "why": "No new telco news. Singtel goes ex-dividend (S$0.09) on 30 Nov, which usually lowers the price by about the dividend on that day.",
    "stocks": [
-    "Z74",
-    "CC3"
+    "Z74"
    ]
   },
   {
    "sector": "Consumer Durables",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No sector-specific news; the proposed US tariffs could weigh on exporters of goods to the US, but details per product are not yet clear."
+   "why": "No sector-specific news; the proposed US Section 301 tariff of up to 20% is a later risk for goods exporters, with nothing before early 2027."
   },
   {
    "sector": "Consumer Non-Durables",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No sector-specific news; Singapore core inflation eased to 1.5% in October, which keeps cost pressure low."
+   "why": "No sector-specific news; local inflation stays low, which keeps cost pressure mild."
   },
   {
    "sector": "Consumer Services",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No sector-specific news; the broad market mood is cautious after two weak sessions."
+   "why": "No sector-specific news."
   },
   {
    "sector": "Distribution Services",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No sector-specific news; US tariff talk is a mild risk for trade-linked distributors over the coming months."
+   "why": "No sector-specific news; US tariff plans are a mild risk for trade-linked distributors next year."
   },
   {
    "sector": "Electronic Technology",
-   "view": "down",
-   "chance": "about 40% up, low confidence",
-   "why": "The AI chip sell-off continues: the US chip index fell almost 8% on Tuesday and chip stocks fell again on Wednesday; AEM dropped 6.8%. Semiconductors are exempt from the new tariff plan, which limits the extra damage.",
+   "view": "neutral",
+   "chance": "about 45% up, low confidence",
+   "why": "Chip stocks bounced in Asia on Thursday after the AI sell-off, but Nvidia fell another 3.9% on Wednesday and electronics are about 45% of Singapore's US exports exposed to the tariff plan. Too mixed to call.",
    "stocks": [
     "V03",
     "AWX",
-    "558"
+    "5DD"
    ]
   },
   {
    "sector": "Energy Minerals",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "US crude rose about 2.5% and energy led US gains on Wednesday, ending the recent slide; one day is not enough to call a month-long trend."
+   "why": "Brent rose 0.5% to about US$91 on Strait of Hormuz shipping tension, but oil has swung widely; no clear month-long direction."
   },
   {
    "sector": "Finance",
    "view": "neutral",
-   "chance": "about 50% up, low confidence",
-   "why": "DBS (-1.2%), OCBC and UOB fell while the REIT index rose 0.6%. US yields eased, which helps REITs, but a December Fed hike is still fully priced after hot October PCE inflation.",
+   "chance": "about 55% up, low confidence",
+   "why": "DBS, OCBC and UOB rose 0.6-0.9% and REITs led the STI (MPACT, MIT +1.8%) on Thursday. A US Fed hike in December is still seen as live after hot PCE inflation, which caps REITs.",
    "stocks": [
     "D05",
     "O39",
     "U11",
-    "A17U",
-    "S68"
+    "N2IU",
+    "ME8U"
    ]
   },
   {
@@ -85,16 +81,16 @@
    "sector": "Health Technology",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No sector-specific news; patented pharmaceuticals are excluded from the proposed US tariffs."
+   "why": "No sector-specific news; healthcare and medical devices are about 15% of goods exposed to the proposed US tariff, but nothing applies before early 2027."
   },
   {
    "sector": "Industrial Services",
    "view": "neutral",
-   "chance": "about 55% up, low confidence",
-   "why": "BRC Asia jumped 4.9% after FY profit rose 22%, and Singapore's strong growth (around 6% this year) supports building activity, but Seatrium fell 4.2% after announcing retrenchments.",
+   "chance": "about 45% up, low confidence",
+   "why": "Seatrium fell for a fifth day (-3.7% to S$1.31) after cutting yards from 15 to 11 and about 220 jobs; Morgan Stanley's target is S$1.16. Other engineers such as Keppel and ST Engineering rose.",
    "stocks": [
-    "BEC",
-    "S51"
+    "5E2",
+    "BN4"
    ]
   },
   {
@@ -107,49 +103,50 @@
    "sector": "Non-Energy Minerals",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No sector-specific news; steel, aluminium and copper goods are excluded from the new tariff plan."
+   "why": "No sector-specific news."
   },
   {
    "sector": "Process Industries",
    "view": "neutral",
-   "chance": "about 50% up, low confidence",
-   "why": "No sector-specific news; chemical and plastics exporters face the proposed US tariff of up to 20% unless Singapore negotiates a lower rate."
+   "chance": "about 45% up, low confidence",
+   "why": "Petrochemicals are about 28% of Singapore goods exposed to the proposed US tariff of up to 20% (10% with a deal); comments close 5 Jan, so this is a slow-moving risk."
   },
   {
    "sector": "Producer Manufacturing",
    "view": "down",
    "chance": "about 40% up, low confidence",
-   "why": "The US proposed a Section 301 tariff of up to 20% on Singapore goods (10% with a trade deal). Machinery and equipment makers are not in the exempt groups, so this is a headwind, though nothing takes effect before late January.",
+   "why": "The US Section 301 plan of up to 20% on Singapore goods is a headwind for equipment and component exporters, though analysts note it largely restores earlier tariff levels and starts no earlier than 2027.",
    "stocks": [
-    "5E2"
+    "S63"
    ]
   },
   {
    "sector": "Retail Trade",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No sector-specific news; low local inflation is a mild support."
+   "why": "No sector-specific news."
   },
   {
    "sector": "Technology Services",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No Singapore-specific news; global AI-related stocks are being sold on spending and valuation worries."
+   "why": "No Singapore-specific news; global AI stocks rebounded Thursday in Asia and Europe after two days of heavy selling, but the mood is fragile."
   },
   {
    "sector": "Transportation",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No sector-specific news; new US tariffs on 14 Asian and European economies could slow trade volumes next year, but nothing changes this month.",
+   "why": "Singapore Airlines fell 1.7% and SATS 0.6% on Thursday with no clear news; high oil (Brent about US$91) is a cost headwind.",
    "stocks": [
-    "C6L"
+    "C6L",
+    "S58"
    ]
   },
   {
    "sector": "Utilities",
    "view": "neutral",
    "chance": "about 50% up, low confidence",
-   "why": "No new sector news; utilities are defensive and may hold up while chip stocks are weak.",
+   "why": "No new sector news; Sembcorp Industries was flat on Thursday.",
    "stocks": [
     "U96"
    ]
@@ -157,14 +154,10 @@
  ],
  "avoid": {},
  "sources": [
-  "https://longbridge.com/en/news/306761324",
-  "https://sg.finance.yahoo.com/news/singapore-shares-slip-red-amid-093133458.html",
-  "https://www.kucoin.com/news/flash/singapore-reits-rise-on-nov-25-2026-esr-reit-offers-11-32-yield",
-  "https://thelibraryestate.com/singapore-markets-mid-morning-update-sti-slips-in-early-trade-as-the-chip-selloff-spreads-nov-25-2026/",
-  "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/",
-  "https://vistapglobal.com/stocks-close-mixed-on-wednesday-november-25-2026-as-hot-pce-inflation-new-tariff-plans-and-an-ai-sell-off-test-wall-street-amd-eprx-googl-modd-nvda-ser-spcx-vix/",
-  "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/",
-  "https://www.strtrade.com/trade-news-resources/str-trade-report/november/section-301-tariffs-of-15-to-40-percent-proposed-on-14-trading-partners",
-  "https://www.businesstoday.com.my/2026/11/23/singapore-core-inflation-slows-to-1-5-in-october-but-price-pressures-may-rebound/"
+  "https://longbridge.com/en/news/306903357",
+  "https://www.kucoin.com/news/flash/sti-rises-0-65-to-4-962-64-as-banks-and-reits-rebound",
+  "https://www.bnnbloomberg.ca/markets/2026/11/26/global-stocks-rise-and-tech-shares-rebound-as-us-closes-for-thanksgiving/",
+  "https://longbridge.com/en/news/306837519",
+  "https://thekopinotes.com/articles/news/singapore-us-section-301-tariff-2026/"
  ]
 }
