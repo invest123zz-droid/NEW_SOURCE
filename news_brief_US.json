@@ -1,95 +1,88 @@
 {
- "date": "2026-11-25",
- "headline": "Tuesday: Dow +0.85% closed above 50,000, S&P 500 -0.50%, Nasdaq -1.48% as chip stocks gave back Monday's Nvidia surge (Micron -11%, ADI -17%). Health care and retailers led. Consumer confidence jumped. A Dec 9 Fed hike is ~95% priced. PCE and GDP due today; closed Thursday.",
+ "date": "2026-11-26",
+ "headline": "US markets closed today for Thanksgiving; Friday closes at 1 p.m. ET. Wednesday: Dow +0.3%, S&P 500 -0.3%, Nasdaq -0.6% after an intraday chip rout. Core PCE 3.3%, a Dec 9 Fed hike is about fully priced. Oil up ~2%. US proposed new tariffs on 14 partners from January 2027.",
  "sectors": [
   {
    "sector": "Commercial Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. A December 9 Fed hike is about 95% priced and the 10-year yield sits near 4.90%, a mild headwind but not a clear direction."
+   "why": "No clear sector news. October core PCE came in at 3.3%, a bit hot, and a December 9 Fed hike is now about fully priced, a mild headwind but already expected."
   },
   {
    "sector": "Communications",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No specific US telecom news. Communication services rose about 0.8% Tuesday, but long Treasury yields near 5.3% weigh on dividend payers."
+   "why": "No specific US telecom news. The 10-year yield eased to about 4.85% Wednesday, a small help for dividend payers, but more Fed hikes are being discussed for next year."
   },
   {
    "sector": "Consumer Durables",
    "view": "down",
    "chance": "about 55% down, low confidence",
-   "why": "A December 9 Fed hike is about 95% priced and the 10-year yield is near 4.90%, keeping mortgage and auto loan costs high for homes, cars and furniture."
+   "why": "A December Fed hike is about fully priced after hot core PCE, keeping loan costs high, and the new tariff proposal names Chinese appliances and Japanese and Korean cars."
   },
   {
    "sector": "Consumer Non-Durables",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Staples rose about 1.7% Tuesday as money left chips for defensive names, but J.M. Smucker slipped after results. No clear month-long driver.",
+   "why": "Defensive names held up as money left chips, but no clear month-long driver. Tariffs proposed on 14 partners would not start before January 2027.",
    "stocks": [
     "PG",
-    "KO",
-    "SJM"
+    "KO"
    ]
   },
   {
    "sector": "Consumer Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Conference Board consumer confidence jumped to its highest in nearly two years, a plus for spending, but a likely Fed hike limits the upside."
+   "why": "Consumer spending rose 0.3% in October and jobless claims stayed low at 189,000, a plus, but hot inflation and a near-certain Fed hike limit the upside."
   },
   {
    "sector": "Distribution Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news this week. Rates are the main factor and a December hike is already expected."
+   "why": "The proposed tariffs on 14 trading partners could raise import costs, but they start no earlier than January 2027 and rates are still being argued. No clear direction yet."
   },
   {
    "sector": "Electronic Technology",
    "view": "down",
-   "chance": "about 55% down, low confidence",
-   "why": "Chips fell hard Tuesday (Micron -11% on memory demand worries, ADI -17%, Nvidia -6%) and HPE sank 16% on a lower AI server margin outlook. Dell's record quarter is a partial offset.",
+   "chance": "about 60% down, low confidence",
+   "why": "The chip sell-off continued: Nvidia fell 3.9% and Micron 4.5%, and the Nasdaq briefly fell about 4.6% intraday, near bear-market territory. Asian chip makers dropped sharply too.",
    "stocks": [
     "NVDA",
     "MU",
-    "ADI",
-    "DELL"
+    "AMD",
+    "AVGO"
    ]
   },
   {
    "sector": "Energy Minerals",
-   "view": "neutral",
-   "chance": "about 50/50, low confidence",
-   "why": "Energy rose about 1% Tuesday, but forecasters expect oil prices to ease into year end. No clear direction."
+   "view": "up",
+   "chance": "about 55% up, low confidence",
+   "why": "Oil rose about 2-2.5% Wednesday, with WTI near $84 and Brent around $91 or higher. A modest tailwind if prices hold, but oil swings fast."
   },
   {
    "sector": "Finance",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Financials rose about 0.8% Tuesday and credit spreads narrowed. A December hike can help bank margins but weighs on borrowing, so no clear direction."
+   "why": "Financials and small caps rose Wednesday as money rotated out of tech. A December hike can help bank margins but weighs on borrowing, so no clear direction."
   },
   {
    "sector": "Health Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Health care led Tuesday's market, but the gains were in drug makers and devices, not in insurers or hospitals. No clear month-long driver."
+   "why": "No clear sector-wide news since the last close. Rates and inflation are the main background factors."
   },
   {
    "sector": "Health Technology",
-   "view": "up",
-   "chance": "about 55% up, low confidence",
-   "why": "Health care was the best sector Tuesday (+2.95%) and Sanofi agreed to buy Insmed for about $41 billion in cash, a sign of strong deal appetite. Medtronic fell after a revenue miss.",
-   "stocks": [
-    "INSM",
-    "SNY",
-    "AMGN",
-    "VRTX"
-   ]
+   "view": "neutral",
+   "chance": "about 50/50, low confidence",
+   "why": "No clear sector-wide news. Health care slipped Wednesday after leading on Tuesday, with no single driver."
   },
   {
    "sector": "Industrial Services",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Mixed: Amentum jumped 20% while Dycom fell 18% Tuesday. No clear sector-wide direction."
+   "why": "Q3 GDP was revised up to 4.3% growth, a plus for activity, but higher rates and tariff uncertainty offset it."
   },
   {
    "sector": "Miscellaneous",
@@ -99,68 +92,63 @@
   },
   {
    "sector": "Non-Energy Minerals",
-   "view": "neutral",
-   "chance": "about 50/50, low confidence",
-   "why": "No clear sector news; materials rose about 0.5% Tuesday. Rate-hike expectations and a firm dollar are a mild headwind."
+   "view": "up",
+   "chance": "about 55% up, low confidence",
+   "why": "The US proposed new tariffs on 14 partners aimed at excess factory capacity, naming Chinese steel and aluminum, which tends to help US producers. Effective no earlier than January 2027."
   },
   {
    "sector": "Process Industries",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. Chemical and packaging names follow rates and demand, and neither moved decisively."
+   "why": "Tariffs on Chinese overcapacity could help some US makers, but higher oil raises input costs. No clear direction."
   },
   {
    "sector": "Producer Manufacturing",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Industrials slipped about 0.5% Tuesday. Deere reports today, which can set the tone for farm and machinery names.",
-   "stocks": [
-    "DE"
-   ]
+   "why": "Strong GDP and possible protection from the new tariff proposal help, but costlier imported parts and a December Fed hike work the other way."
   },
   {
    "sector": "Retail Trade",
-   "view": "up",
-   "chance": "about 55% up, low confidence",
-   "why": "Retailers rallied Tuesday (Abercrombie +20%, Kohl's +19%, Dick's +15%, Dollar Tree +11%) and consumer confidence hit a near two-year high. Urban Outfitters fell after hours.",
-   "stocks": [
-    "DLTR",
-    "ANF",
-    "DKS",
-    "BBY"
-   ]
+   "view": "down",
+   "chance": "about 55% down, low confidence",
+   "why": "The new tariff proposal covers big sourcing countries such as China, Vietnam, Cambodia and Bangladesh, and inflation is running hot, squeezing margins and shoppers into 2027."
   },
   {
    "sector": "Technology Services",
-   "view": "neutral",
-   "chance": "about 50/50, low confidence",
-   "why": "Workday and Autodesk fell about 4% after hours on their results, and AI names were sold Tuesday, but software held up better than chips. No clear direction.",
+   "view": "down",
+   "chance": "about 55% down, low confidence",
+   "why": "Worries about AI spending hit big tech again: Amazon fell about 3% and Alphabet about 2%, while Meta rose about 3%. Mixed, but the AI trade is under pressure.",
    "stocks": [
-    "WDAY",
-    "ADSK"
+    "MSFT",
+    "GOOGL",
+    "AMZN",
+    "META"
    ]
   },
   {
    "sector": "Transportation",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "No clear sector news. Holiday travel week; rates are the main factor."
+   "why": "Higher oil prices raise fuel costs, but holiday travel and strong GDP support demand. No clear direction."
   },
   {
    "sector": "Utilities",
    "view": "neutral",
    "chance": "about 50/50, low confidence",
-   "why": "Utilities edged up about 0.2% Tuesday, but the 30-year Treasury near 5.29% and an expected December hike keep pressure on rate-sensitive dividend stocks."
+   "why": "The 10-year yield eased to about 4.85%, a small help, but a December hike and talk of more hikes in 2027 keep rate pressure on."
   }
  ],
  "avoid": {
-  "HPE": "Shares fell about 16% on Tuesday as a lower AI server margin outlook overshadowed its raised forecast; wait for the dust to settle."
+  "NVDA": "Down about 27% in November with ongoing investigations into the CEO's actions and export controls, per two reports; very volatile for a month-long hold."
  },
  "sources": [
-  "https://cappnotes.substack.com/p/closing-look-tuesday-november-24",
-  "https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026",
-  "https://rockandturner.substack.com/p/tue-nov-24-2026-the-market-today",
-  "https://www.stl.news/us-stock-market-today-november-24-2026/",
-  "https://www.oxfordeconomics.com/resource/us-pce-nowcast-broadening-pressures-lock-in-december-rate-hike/"
+  "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-25-220645995.html",
+  "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-11252026-138453529",
+  "https://longbridge.com/en/topics/45393942",
+  "https://cappnotes.substack.com/p/closing-look-wednesday-november-25",
+  "https://vistapglobal.com/stocks-close-mixed-on-wednesday-november-25-2026-as-hot-pce-inflation-new-tariff-plans-and-an-ai-sell-off-test-wall-street-amd-eprx-googl-modd-nvda-ser-spcx-vix/",
+  "https://time.com/article/2026/11/25/trump-administration-new-tariffs-china-european-union-india/",
+  "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target"
  ]
 }
